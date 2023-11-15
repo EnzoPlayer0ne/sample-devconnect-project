@@ -16,7 +16,7 @@ git clone git@github.com:<your new forked url>/devconnect-hackerhouse.git
 cd devconnect-hackerhouse/submissions/
 
 # 4.    add submodule
-git submodule add <URL of your own project> submissions/sample-devconnect-project
+git submodule add <URL of your own project> sample-devconnect-project
 
 # 5.    push the new submodule
 git add .
